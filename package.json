@@ -32,12 +32,10 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^6.0.3"
 
-  "name": "lms-frontend",
+
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+ 
     "start": "next start",
     "lint": "eslint"
   },
