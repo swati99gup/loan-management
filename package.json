@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "name": "ims-backend",
   "version": "1.0.0",
   "main": "index.js",
@@ -58,6 +58,6 @@
     "postcss": "^8.5.12",
     "tailwindcss": "^4.2.4",
     "typescript": "^5"
->>>>>>> 1c71804e2cc01b478b0faef9c82c0a47cee90a03
+
   }
 }
